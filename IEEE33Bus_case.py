@@ -7,7 +7,7 @@ import os
 from breakable import breakload
 from shiftable import shiftload
 from modulatable import modulateload
-from aux_functions_certinho import load_data_to_variables, create_empty_price_curves, calculate_cost_N, plot_prices_and_loads_over_time, get_first_cost
+from aux_functions import load_data_to_variables, create_empty_price_curves, calculate_cost_N, plot_prices_and_loads_over_time, get_first_cost
 
 
 import time
